@@ -11,8 +11,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Coupe Fred = new Coupe();
-            Fred
+            Coupe Ford = new Coupe();
+            
         }
     }
 }

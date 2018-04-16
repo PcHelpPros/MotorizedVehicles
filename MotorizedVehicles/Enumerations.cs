@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using MotorizedVehicles;
 using System.Threading.Tasks;
 
 namespace MotorizedVehicles
 {
-    public class Coupe: BaseMotorizedVehicles
-    {       
+    public enum EngineType: short
+    {
+        V4,
+        V6,
+        V8
     }
 }
