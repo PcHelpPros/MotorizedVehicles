@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorizedVehicles", "MotorizedVehicles\MotorizedVehicles.csproj", "{E9436D0E-4C22-460F-97F6-5D29A9F84472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMotorizedVehicle", "TestMotorizedVehicle\TestMotorizedVehicle.csproj", "{55CE523F-D813-4F8F-882B-7F72FA322337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeMotorizedVehicles", "ConsoleApp1\ConsumeMotorizedVehicles.csproj", "{C31D84E0-59B0-4B46-878A-FD0FA2E08120}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E9436D0E-4C22-460F-97F6-5D29A9F84472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9436D0E-4C22-460F-97F6-5D29A9F84472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9436D0E-4C22-460F-97F6-5D29A9F84472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CE523F-D813-4F8F-882B-7F72FA322337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CE523F-D813-4F8F-882B-7F72FA322337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CE523F-D813-4F8F-882B-7F72FA322337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CE523F-D813-4F8F-882B-7F72FA322337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31D84E0-59B0-4B46-878A-FD0FA2E08120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31D84E0-59B0-4B46-878A-FD0FA2E08120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31D84E0-59B0-4B46-878A-FD0FA2E08120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31D84E0-59B0-4B46-878A-FD0FA2E08120}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
